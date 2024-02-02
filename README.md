@@ -1,12 +1,19 @@
 # News Site
 
-Replace this readme with your own information about your project. 
+Welcome to the Middle Earth News website—your source for all things happening in the realm. Enjoy your reading journey!
 
-Start by briefly describing the assignment in a sentence or two. Keep it short and to the point.
+## The Challenge
 
-## The problem
+I faced, and still face, the challenge of comprehending how HTML and CSS elements, along with their properties, truly function. The content of the webpage was put together in the last hour, and I struggled to present the news effectively on mobile screens.
 
-Describe how you approached to problem, and what tools and techniques you used to solve it. How did you plan? What technologies did you use? If you had more time, what would be next?
+Despite extensive Google searches, watching numerous YouTube videos, and seeking guidance from ChatGPT, I have not fully grasped the intricacies.
 
-## View it live
-Every project should be deployed somewhere. Be sure to include the link to the deployed project so that the viewer can click around and see what it's all about.
+Given more time, I aim to address the following:
+
+- Optimize the site for mobile screens.
+- Enhance the footer by incorporating relevant icons.
+- Improve the navigation bar and links with captivating animations upon hover.
+
+## View it Live
+
+Every project deserves a spot in the digital realm. Please check out the deployed project [here](https://lacomarca4news.netlify.app/) to explore and experience it firsthand.
